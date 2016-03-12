@@ -1,0 +1,19 @@
+.tukiwi-logo:before {
+    color: #070707;
+    content: "TuKi";
+}
+.tukiwi-logo:after {
+    color: #78FF3D;
+    content: "Wi";
+}
+
+.kijumbo h2 {
+    font-size: 170%;
+}
+.kijumbo p {
+    font-size: 140%;
+}
+
+.row-authors{
+    margin-top: 100px;
+}
