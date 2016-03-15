@@ -17,3 +17,8 @@
 .row-authors{
     margin-top: 100px;
 }
+
+.reveal .dark-background h1 {
+	color: black;
+    text-shadow: 6px 0 0 #eee, -6px 0 0 #eee, 0 6px 0 #eee, 0 -6px 0 #eee, 2px 2px #eee, -2px -2px 0 #eee, 2px -2px 0 #eee, -2px 2px 0 #eee;
+}
