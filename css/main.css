@@ -7,6 +7,26 @@
     content: "Wi";
 }
 
+
+footer {
+  margin-top: 150px;
+}
+
+.chief_profile img {
+    display: block;
+    margin-left: 10%;
+}
+
+.chief_profile {
+  max-width: 550px;
+}
+
+.chief_profile .social i {
+  font-size: 180%;
+  padding-right: 8px;
+}
+
+
 .kijumbo h2 {
     font-size: 170%;
 }
