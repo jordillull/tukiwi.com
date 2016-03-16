@@ -39,8 +39,16 @@ footer {
 }
 
 .reveal .dark-background h1 {
-	color: black;
-    text-shadow: 6px 0 0 #eee, -6px 0 0 #eee, 0 6px 0 #eee, 0 -6px 0 #eee, 2px 2px #eee, -2px -2px 0 #eee, 2px -2px 0 #eee, -2px 2px 0 #eee;
+	color: #07070;
+  //text-shadow: 6px 0 0 #eee, -6px 0 0 #eee, 0 6px 0 #eee, 0 -6px 0 #eee, 2px 2px #eee, -2px -2px 0 #eee, 2px -2px 0 #eee, -2px 2px 0 #eee;
+  text-shadow: 3px 3px #eee;
+}
+
+.reveal .color-background h1 ,
+.reveal .color-background h2 ,
+.reveal .color-background h3 {
+	color: #e0e0e0;
+  text-shadow: 3px 3px #888;
 }
 
 .featurette .img-responsive {
