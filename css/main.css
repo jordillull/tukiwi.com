@@ -1,3 +1,7 @@
+.tukiwi-logo {
+    font-family: 'Source Sans Pro', Helvetica, sans-serif;
+    font-weight: normal;
+}
 .tukiwi-logo:before {
     color: #070707;
     content: "TuKi";
@@ -7,6 +11,18 @@
     content: "Wi";
 }
 
+.reveal .ul-icons {
+  list-style-type: none;
+}
+
+.ul-icons li {
+    color: #070707;
+}
+.ul-icons i {
+    color: #78FF3D;
+    padding-right: 10px;
+    text-shadow: 1px 1px #070707;
+}
 
 footer {
   margin-top: 150px;
