@@ -15,6 +15,17 @@
   list-style-type: none;
 }
 
+.ul-index {
+    color: #78FF3D;
+    font-size: 150%;
+}
+
+.ul-index:after {
+    color: #070707;
+    content: ".";
+    padding-right: 8px;
+}
+
 .ul-icons li {
     color: #070707;
 }
@@ -68,5 +79,5 @@ footer {
 }
 
 .featurette .img-responsive {
-	border-radius: 10px;
+	border-radius: 20px;
 }
